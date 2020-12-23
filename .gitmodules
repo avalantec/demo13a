@@ -1,0 +1,4 @@
+[submodule "voip_iceserver"]
+	path = voip_iceserver
+	url = git@github.com:stefanjaw/voip_iceserver.git
+	branch = master
